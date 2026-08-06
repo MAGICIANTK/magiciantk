@@ -1,10 +1,9 @@
-<h1 align="center">Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+alignh1 <="center">Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Hi! My name is Thulmith Karunathilaka. Thank You for taking the time to view my GitHub Profile 🤩</h3>
 
+<!-- The typing SVG should work with this updated link. If not, GitHub's image caching might be blocking it temporarily. -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Tech+Enthusiast+%26+Developer;Welcome+to+my+Profile!;AKA+MAGICIAN+TK+🎩✨" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Game+Developer+%26+Tech+Enthusiast;Welcome+to+my+Profile!;AKA+MAGICIAN+TK+🎩✨" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,15 +12,24 @@
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/aungku-km/aungku-km/main/assets/coding-boy.gif" alt="Coding Animation" />
 
-* 🔭 I’m currently an **Undergraduate Software Engineering Student**.
+* 🔭 I’m currently an **Undergraduate Software Engineering Student & Game Developer**.
 * 🌱 I’m constantly learning and exploring new technologies and frameworks.
 * 👯 I’m looking to collaborate on **innovative software and web projects**.
-* 💬 Talk to me about **software engineering, tech, and mind-blowing sites!** 🤯
+* 💬 Talk to me about **software engineering, game development, tech, and mind-blowing sites!** 🤯
 * ⚡ Fun fact: I go by the nickname **MAGICIAN TK** 🎩✨
 * 📫 Contact me via: **[thula.karu123@gmail.com](mailto:thula.karu123@gmail.com)**
 
 <br/>
 <br/>
+
+### ✨ A Tech Poem
+<p align="center">
+<a href="#">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=9C27B0&center=true&vCenter=true&width=600&lines=Lines+of+logic,+worlds+unseen,;Crafting+magic+on+the+screen.;From+code+to+game,+a+vision+bold,;A+digital+story,+waiting+to+be+told." alt="Tech Poem Typing SVG" />
+</a>
+</p>
+
+---
 
 ### 🛠️ Skills `< / >`
 
@@ -88,7 +96,11 @@
 
 ### 🎧 What I'm Listening to Right Now
 <p align="left">
-    <a href="https://open.spotify.com/">
-      <img src="https://spotify-github-profile.midudev.now.sh/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+    <!-- Spotify widget linking to your profile, combined with the skillicons.dev icon -->
+    <a href="https://open.spotify.com/user/6o0sjx0icsqtwe1rtttsnpdty?si=32e9d54939ea46a1" target="blank">
+        <img src="https://skillicons.dev/icons?i=spotify" alt="Spotify Icon" align="center" style="margin-right: 10px;" />
+    </a>
+    <a href="https://open.spotify.com/user/6o0sjx0icsqtwe1rtttsnpdty?si=32e9d54939ea46a1" target="blank">
+      <img src="https://spotify-github-profile.midudev.now.sh/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Widget" align="center"/>
     </a>
 </p>

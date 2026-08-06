@@ -1,8 +1,10 @@
-<h1 align="center">Hello Fellow < Developers/ >! 👋</h1>
+<h1 align="center">Hello Fellow &lt; Developers/ &gt;! 👋</h1>
 <h3 align="center">Hi! My name is Thulmith Karunathilaka. Thank You for taking the time to view my GitHub Profile 🤩</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Tech+Enthusiast+%26+Developer;Welcome+to+my+Profile!;AKA+MAGICIAN+TK+🎩✨" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Tech+Enthusiast+%26+Developer;Welcome+to+my+Profile!;AKA+MAGICIAN+TK+🎩✨" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -65,5 +67,7 @@
 
 ### 🎧 What I'm Listening to Right Now
 <p align="left">
-    <a href="https://open.spotify.com/"><img src="https://spotify-github-profile.midudev.now.sh/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" /></a>
+    <a href="https://open.spotify.com/">
+      <img src="https://spotify-github-profile.midudev.now.sh/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+    </a>
 </p>

@@ -1,4 +1,4 @@
-<h1 align="center">Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Hi! My name is Thulmith Karunathilaka. Thank You for taking the time to view my GitHub Profile 🤩</h3>
 
 <div align="center">
@@ -71,19 +71,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/DaVinci_Resolve-904060?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canvas&logoColor=white" alt="Canva" />
 </p>
-
----
-
-### 📊 My Statistics
-
-<div align="center">
-  <a href="https://github.com/magiciantk">
-    <!-- This will automatically update your GitHub streak and contribution stats! -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </a>
-</div>
 
 ---
 

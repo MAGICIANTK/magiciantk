@@ -1,4 +1,4 @@
-<h1 align="center">Hello Fellow &lt; Developers/ &gt;! 👋</h1>
+<h1 align="center">Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Hi! My name is Thulmith Karunathilaka. Thank You for taking the time to view my GitHub Profile 🤩</h3>
 
 <div align="center">
@@ -28,7 +28,7 @@
 #### 💻 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,py" alt="Languages" />
   </a>
 </p>
 
@@ -46,11 +46,16 @@
   </a>
 </p>
 
-#### 🎨 Design, Game Dev & Tools
+#### 🎨 Design, Video Editing, Game Dev & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,blender,ai,ps,git,github,discord" alt="Tools and Design" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ai,ps,pr,git,github,discord" alt="Tools and Design" />
   </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-904060?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=CapCut&logoColor=white" alt="CapCut" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
 
 ---
@@ -59,7 +64,11 @@
 
 <p align="left">
 <a href="https://guns.lol/magiciantk" target="blank"><img align="center" src="https://img.shields.io/badge/Website-MAGICIAN_TK-121212?style=for-the-badge&logo=about.me&logoColor=white" alt="MAGICIAN TK Profile" /></a>
+<a href="https://www.youtube.com/@magiciantk" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-MAGICIAN_TK-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<br/>
+<br/>
 <a href="mailto:thula.karu123@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-thula.karu123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/thulmith-karunathilaka/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Thulmith_Karunathilaka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---

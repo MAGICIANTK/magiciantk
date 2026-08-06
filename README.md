@@ -1,7 +1,13 @@
 <h1 align="center">Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Hi! My name is Thulmith Karunathilaka. Thank You for taking the time to view my GitHub Profile 🤩</h3>
 
-<!-- Typing SVG Fix: Removed emojis and special characters from the URL string to prevent GitHub from breaking the image link -->
+<div align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=magiciantk&color=0e75b6&style=flat&label=Profile+views" alt="Profile Views" />
+</div>
+<br/>
+
+<!-- Typing SVG -->
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Game+Developer+and+Tech+Enthusiast;Welcome+to+my+Profile!;AKA+MAGICIAN+TK" alt="Typing SVG" />
@@ -58,17 +64,26 @@
 
 #### 🎨 Design, Video Editing, Game Dev & Tools
 <p align="left">
-  <!-- Added Figma and Notion directly into the skillicons dynamically generated image -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ai,ps,pr,figma,notion,git,github,discord" alt="Tools and Design" />
   </a>
 </p>
 <p align="left">
-  <!-- Fixed the simpleicons logos by using strict lowercase naming for the shields -->
   <img src="https://img.shields.io/badge/DaVinci_Resolve-904060?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
+
+---
+
+### 📊 My Statistics
+
+<div align="center">
+  <a href="https://github.com/magiciantk">
+    <!-- This will automatically update your GitHub streak and contribution stats! -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
@@ -100,7 +115,6 @@
 
 ### 🎧 What I'm Listening to Right Now
 <p align="left">
-    <!-- Cleaned up broken widget, now strictly displaying the single skillicons Spotify button linking to your profile -->
     <a href="https://open.spotify.com/user/6o0sjx0icsqtwe1rtttsnpdty?si=32e9d54939ea46a1" target="blank">
         <img src="https://skillicons.dev/icons?i=spotify" alt="Spotify Profile" align="center" />
     </a>

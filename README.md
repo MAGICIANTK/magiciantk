@@ -1,4 +1,4 @@
-alignh1 <="center">Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Hi! My name is Thulmith Karunathilaka. Thank You for taking the time to view my GitHub Profile 🤩</h3>
 
 <!-- The typing SVG should work with this updated link. If not, GitHub's image caching might be blocking it temporarily. -->

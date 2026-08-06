@@ -25,10 +25,31 @@
 
 ### 🛠️ Skills `< / >`
 
+#### 💻 Programming Languages
 <p align="left">
-  <!-- These icons are generated dynamically and match the exact style from your reference image! -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,react,git,github,dribbble,ai,ps,discord" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php" alt="Languages" />
+  </a>
+</p>
+
+#### 🌐 Frontend & Web Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" alt="Frontend" />
+  </a>
+</p>
+
+#### ⚙️ Backend & Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,mysql,mongo" alt="Backend and DB" />
+  </a>
+</p>
+
+#### 🎨 Design, Game Dev & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,blender,ai,ps,git,github,discord" alt="Tools and Design" />
   </a>
 </p>
 
@@ -51,15 +72,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magiciantk/magiciantk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magiciantk/magiciantk/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/magiciantk/magiciantk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <!-- NOTE: The image below will appear broken until you set up the GitHub Action (Step 4 in instructions) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
   </picture>
 </div>
 

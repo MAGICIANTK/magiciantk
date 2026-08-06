@@ -1,7 +1,6 @@
 <h1 align="center">Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Hi! My name is Thulmith Karunathilaka. Thank You for taking the time to view my GitHub Profile 🤩</h3>
 
-<!-- The typing SVG should work with this updated link. If not, GitHub's image caching might be blocking it temporarily. -->
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Game+Developer+%26+Tech+Enthusiast;Welcome+to+my+Profile!;AKA+MAGICIAN+TK+🎩✨" alt="Typing SVG" />
 </div>
@@ -61,9 +60,9 @@
   </a>
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-904060?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=CapCut&logoColor=white" alt="CapCut" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-904060?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 ---
@@ -96,11 +95,10 @@
 
 ### 🎧 What I'm Listening to Right Now
 <p align="left">
-    <!-- Spotify widget linking to your profile, combined with the skillicons.dev icon -->
     <a href="https://open.spotify.com/user/6o0sjx0icsqtwe1rtttsnpdty?si=32e9d54939ea46a1" target="blank">
         <img src="https://skillicons.dev/icons?i=spotify" alt="Spotify Icon" align="center" style="margin-right: 10px;" />
     </a>
     <a href="https://open.spotify.com/user/6o0sjx0icsqtwe1rtttsnpdty?si=32e9d54939ea46a1" target="blank">
-      <img src="https://spotify-github-profile.midudev.now.sh/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Widget" align="center"/>
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=6o0sjx0icsqtwe1rtttsnpdty&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Widget" align="center"/>
     </a>
 </p>

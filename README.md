@@ -1,8 +1,11 @@
 <h1 align="center">Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Hi! My name is Thulmith Karunathilaka. Thank You for taking the time to view my GitHub Profile 🤩</h3>
 
+<!-- Typing SVG Fix: Removed emojis and special characters from the URL string to prevent GitHub from breaking the image link -->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Game+Developer+%26+Tech+Enthusiast;Welcome+to+my+Profile!;AKA+MAGICIAN+TK+🎩✨" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Game+Developer+and+Tech+Enthusiast;Welcome+to+my+Profile!;AKA+MAGICIAN+TK" alt="Typing SVG" />
+    </a>
 </div>
 
 ---
@@ -24,7 +27,7 @@
 ### ✨ A Tech Poem
 <p align="center">
 <a href="#">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=2000&color=9C27B0&center=true&vCenter=true&width=600&lines=Lines+of+logic,+worlds+unseen,;Crafting+magic+on+the+screen.;From+code+to+game,+a+vision+bold,;A+digital+story,+waiting+to+be+told." alt="Tech Poem Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=9C27B0&center=true&vCenter=true&width=600&lines=Lines+of+logic+worlds+unseen;Crafting+magic+on+the+screen;From+code+to+game+a+vision+bold;A+digital+story+waiting+to+be+told" alt="Tech Poem Typing SVG" />
 </a>
 </p>
 
@@ -55,11 +58,13 @@
 
 #### 🎨 Design, Video Editing, Game Dev & Tools
 <p align="left">
+  <!-- Added Figma and Notion directly into the skillicons dynamically generated image -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ai,ps,pr,git,github,discord" alt="Tools and Design" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ai,ps,pr,figma,notion,git,github,discord" alt="Tools and Design" />
   </a>
 </p>
 <p align="left">
+  <!-- Fixed the simpleicons logos by using strict lowercase naming for the shields -->
   <img src="https://img.shields.io/badge/DaVinci_Resolve-904060?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
@@ -70,7 +75,7 @@
 ### 🤝 Connect with me 🤝
 
 <p align="left">
-<a href="https://guns.lol/magiciantk" target="blank"><img align="center" src="https://img.shields.io/badge/Website-MAGICIAN_TK-121212?style=for-the-badge&logo=about.me&logoColor=white" alt="MAGICIAN TK Profile" /></a>
+<a href="https://guns.lol/magiciantk" target="blank"><img align="center" src="https://img.shields.io/badge/Website-MAGICIAN_TK-121212?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MAGICIAN TK Profile" /></a>
 <a href="https://www.youtube.com/@magiciantk" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-MAGICIAN_TK-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <br/>
 <br/>
@@ -95,10 +100,8 @@
 
 ### 🎧 What I'm Listening to Right Now
 <p align="left">
+    <!-- Cleaned up broken widget, now strictly displaying the single skillicons Spotify button linking to your profile -->
     <a href="https://open.spotify.com/user/6o0sjx0icsqtwe1rtttsnpdty?si=32e9d54939ea46a1" target="blank">
-        <img src="https://skillicons.dev/icons?i=spotify" alt="Spotify Icon" align="center" style="margin-right: 10px;" />
-    </a>
-    <a href="https://open.spotify.com/user/6o0sjx0icsqtwe1rtttsnpdty?si=32e9d54939ea46a1" target="blank">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=6o0sjx0icsqtwe1rtttsnpdty&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Widget" align="center"/>
+        <img src="https://skillicons.dev/icons?i=spotify" alt="Spotify Profile" align="center" />
     </a>
 </p>

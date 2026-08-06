@@ -1,4 +1,4 @@
-<h1 align="center">Hello Fellow &lt; Developers/ &gt;! 👋</h1>
+<h1 align="center">Hello Fellow < Developers/ >! 👋</h1>
 <h3 align="center">Hi! My name is Thulmith Karunathilaka. Thank You for taking the time to view my GitHub Profile 🤩</h3>
 
 <div align="center">
@@ -43,6 +43,14 @@
 
 ### 🎮 Mini Game: GitHub Snake 🐍
 *A game of snake played on my contribution graph! The snake eats my contributions to grow.*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magiciantk/magiciantk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magiciantk/magiciantk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/magiciantk/magiciantk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <div align="center">
   <!-- NOTE: The image below will appear broken until you set up the GitHub Action (Step 4 in instructions) -->

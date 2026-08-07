@@ -1,4 +1,4 @@
-name: Generate Snake Mini Game
+name: generate animation
 
 on:
   # run automatically every 24 hours
@@ -23,7 +23,7 @@ jobs:
     steps:
       # generates a snake game from a github user contributions graph, output a svg animation
       - name: generate github-contribution-grid-snake.svg
-        uses: magiciantk/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3
         with:
           # Explicitly setting your username
           github_user_name: magiciantk

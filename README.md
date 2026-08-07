@@ -9,6 +9,13 @@
 
 ---
 
+### ⚡ RGB Lighting Engine Active
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&color=FF0000,00FF00,0000FF,FF00FF,00FFFF&center=true&vCenter=true&width=650&lines=RGB+Gamer+Mode+%3A+ENABLED;Dynamic+Lighting+Script+%3A+RUNNING;Lighting+Up+The+Matrix+🚀" alt="RGB Lighting Script" />
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/aungku-km/aungku-km/main/assets/coding-boy.gif" alt="Coding Animation" />

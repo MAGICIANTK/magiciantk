@@ -1,4 +1,4 @@
-name: Generate MAGICIANTK Snake
+name: Generate Snake Mini Game
 
 on:
   # run automatically every 24 hours
@@ -8,11 +8,10 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the main or master branch
+  # run on every push on the master branch
   push:
     branches:
     - master
-    - main
     
 jobs:
   generate:
@@ -22,18 +21,18 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # generates a snake game from a github user contributions graph, output a svg animation
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: magiciantk/snk/svg-only@v3
         with:
+          # Explicitly setting your username
           github_user_name: magiciantk
-          # Setting the snake color to purple to match your aesthetic!
+          # Added custom color configuration for a purple snake to match your screenshot!
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=purple
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#9c27b0
+            dist/github-contribution-grid-snake.svg?color_snake=#9C27B0
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#9C27B0
           
       # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

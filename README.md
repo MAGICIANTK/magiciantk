@@ -69,16 +69,6 @@
 
 ---
 
-### 📊 My Statistics
-
-<div align="center">
-  <a href="https://github.com/magiciantk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&theme=dark&hide_border=false" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 ### 🤝 Connect with me 🤝
 
 <p align="left">

@@ -2,13 +2,6 @@
 <h3 align="center">Hi! My name is Thulmith Karunathilaka. Thank You for taking the time to view my GitHub Profile 🤩</h3>
 
 <div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=magiciantk&color=0e75b6&style=flat&label=Profile+views" alt="Profile Views" />
-</div>
-<br/>
-
-<!-- Typing SVG -->
-<div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Game+Developer+and+Tech+Enthusiast;Welcome+to+my+Profile!;AKA+MAGICIAN+TK" alt="Typing SVG" />
     </a>
@@ -76,6 +69,16 @@
 
 ---
 
+### 📊 My Statistics
+
+<div align="center">
+  <a href="https://github.com/magiciantk">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
 ### 🤝 Connect with me 🤝
 
 <p align="left">
@@ -89,15 +92,24 @@
 
 ---
 
-### 🎮 Mini Game: GitHub Snake 🐍
-*A game of snake played on my contribution graph! The snake eats my contributions to grow.*
+### 🎮 Mini Games
 
+#### 1. GitHub Contribution Snake 🐍
+*A game of snake played on my contribution graph!*
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magiciantk/magiciantk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magiciantk/magiciantk/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/magiciantk/magiciantk/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+#### 2. Interactive Cyber Snake 🕹️
+*A custom browser-based game I built for my portfolio!*
+<div align="center">
+  <a href="https://magiciantk.github.io/snake-game/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Play_Cyber_Snake_Game-Click_Here!-9C27B0?style=for-the-badge&logoColor=white" alt="Play Snake Game" />
+  </a>
 </div>
 
 ---

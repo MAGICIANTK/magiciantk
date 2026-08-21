@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/github/followers/magiciantk?label=Followers&style=for-the-badge&color=2196f3" alt="Followers" />
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+</div>
 
 ### 👨‍💻 About Me
 
@@ -40,7 +42,9 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+</div>
 
 ### 🛠️ Tech Stack `< / >`
 
@@ -69,20 +73,24 @@
   <img src="https://img.shields.io/badge/Canva-2196F3?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+</div>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=magiciantk&show_icons=true&hide_title=false&hide_border=true&count_private=true&bg_color=00000000&title_color=9C27B0&icon_color=2196F3&text_color=ffffff" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&hide_border=true&background=00000000&ring=2196F3&fire=9C27B0&currStreakLabel=2196F3" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=magiciantk&show_icons=true&hide_title=false&hide_border=true&theme=tokyonight&title_color=9C27B0&icon_color=2196F3" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&hide_border=true&background=1A1B27&ring=2196F3&fire=9C27B0&currStreakLabel=2196F3" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magiciantk&layout=compact&hide_border=true&bg_color=00000000&title_color=9C27B0&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magiciantk&layout=compact&hide_border=true&theme=tokyonight&title_color=9C27B0" alt="Top Languages" />
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+</div>
 
 ### 🎮 Mini Games
 
@@ -104,7 +112,9 @@
   </a>
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+</div>
 
 ### 🎧 What I'm Listening to Right Now
 
@@ -114,7 +124,9 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+</div>
 
 ### 🤝 Connect with Me
 

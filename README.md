@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:9C27B0,100:2196F3&height=220&section=header&text=MAGICIAN%20TK&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:FFFFFF,100:FFD700&height=220&section=header&text=MAGICIAN%20TK&fontSize=70&fontColor=0B0F1A&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Game%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20&descColor=0B0F1A" width="100%"/>
 
 </div>
 
@@ -8,17 +8,17 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3,9C27B0&center=true&vCenter=true&width=650&lines=Undergraduate+Software+Engineering+Student;Full-Stack+Developer+%26+Game+Designer;Building+with+Unreal+Engine+5+%26+Unity;AKA+MAGICIAN+TK+%F0%9F%8E%A9%E2%9C%A8;Welcome+to+my+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3,FFFFFF,FFD700&center=true&vCenter=true&width=650&lines=Undergraduate+Software+Engineering+Student;Full-Stack+Developer+%26+Game+Designer;Building+with+Unreal+Engine+5+%26+Unity;AKA+MAGICIAN+TK+%F0%9F%8E%A9%E2%9C%A8;Welcome+to+my+Profile!" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=magiciantk&label=Profile%20Views&color=9c27b0&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/magiciantk?label=Followers&style=for-the-badge&color=2196f3" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=magiciantk&label=Profile%20Views&color=FFD700&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/magiciantk?label=Followers&style=for-the-badge&color=2196F3" alt="Followers" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:FFFFFF,100:FFD700&height=4&animation=twinkling" width="100%"/>
 </div>
 
 ### 👨‍💻 About Me
@@ -38,12 +38,12 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=9C27B0,2196F3&center=true&vCenter=true&width=650&lines=Lines+of+logic%2C+worlds+unseen;Crafting+magic+on+the+screen;From+code+to+game%2C+a+vision+bold;A+digital+story+waiting+to+be+told" alt="Tech Poem Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=2000&color=FFD700,FFFFFF,2196F3&center=true&vCenter=true&width=650&lines=Lines+of+logic%2C+worlds+unseen;Crafting+magic+on+the+screen;From+code+to+game%2C+a+vision+bold;A+digital+story+waiting+to+be+told" alt="Tech Poem Typing SVG" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:FFFFFF,100:FFD700&height=4&animation=twinkling" width="100%"/>
 </div>
 
 ### 🛠️ Tech Stack `< / >`
@@ -68,28 +68,26 @@
   <img src="https://skillicons.dev/icons?i=unity,unreal,blender,ai,ps,pr,figma,notion,git,github,discord" alt="Tools and Design" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-2196F3?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
-  <img src="https://img.shields.io/badge/CapCut-9C27B0?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-  <img src="https://img.shields.io/badge/Canva-2196F3?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:FFFFFF,100:FFD700&height=4&animation=twinkling" width="100%"/>
 </div>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=magiciantk&show_icons=true&hide_title=false&hide_border=true&theme=tokyonight&title_color=9C27B0&icon_color=2196F3" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&hide_border=true&background=1A1B27&ring=2196F3&fire=9C27B0&currStreakLabel=2196F3" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=magiciantk&show_icons=true&theme=transparent&title_color=FFD700&icon_color=2196F3&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&hide_border=true&background=00000000&ring=2196F3&fire=FFD700&currStreakLabel=2196F3" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magiciantk&layout=compact&hide_border=true&theme=tokyonight&title_color=9C27B0" alt="Top Languages" />
-</p>
+> ⚠️ The stats card above is served from a free, shared public instance that's best-effort and occasionally rate-limited — if it shows a broken image, just refresh the page in a minute or two.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:FFFFFF,100:FFD700&height=4&animation=twinkling" width="100%"/>
 </div>
 
 ### 🎮 Mini Games
@@ -108,12 +106,12 @@
 
 <div align="center">
   <a href="https://magiciantk.github.io/snake-game/" target="_blank">
-    <img src="https://img.shields.io/badge/🎮_Play_Cyber_Snake_Game-Click_Here!-9C27B0?style=for-the-badge&logoColor=white" alt="Play Snake Game" />
+    <img src="https://img.shields.io/badge/🎮_Play_Cyber_Snake_Game-Click_Here!-FFD700?style=for-the-badge&logoColor=black&labelColor=2196F3" alt="Play Snake Game" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:FFFFFF,100:FFD700&height=4&animation=twinkling" width="100%"/>
 </div>
 
 ### 🎧 What I'm Listening to Right Now
@@ -125,14 +123,14 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:9C27B0,100:2196F3&height=4&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:FFFFFF,100:FFD700&height=4&animation=twinkling" width="100%"/>
 </div>
 
 ### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://guns.lol/magiciantk" target="_blank">
-    <img src="https://img.shields.io/badge/All_My_Links-MAGICIAN_TK-9C27B0?style=for-the-badge&logo=linktree&logoColor=white" alt="All Links" />
+    <img src="https://img.shields.io/badge/All_My_Links-MAGICIAN_TK-FFD700?style=for-the-badge&logo=linktree&logoColor=black" alt="All Links" />
   </a>
   <a href="https://www.youtube.com/@magiciantk" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-MAGICIAN_TK-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -155,13 +153,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-Thulmith_Karunathilaka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:thula.karu123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-thula.karu123@gmail.com-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-thula.karu123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:9C27B0,100:2196F3&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:FFFFFF,100:FFD700&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <i>✨ Thanks for visiting — see you in the next build! ✨</i>
 

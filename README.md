@@ -80,11 +80,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=magiciantk&show_icons=true&theme=transparent&title_color=FFD700&icon_color=2196F3&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&hide_border=true&background=00000000&ring=2196F3&fire=FFD700&currStreakLabel=2196F3" alt="GitHub Streak" />
+  <img height="165" src="https://raw.githubusercontent.com/magiciantk/magiciantk/main/assets/stats.svg" alt="GitHub Stats" />
+  <img height="165" src="https://raw.githubusercontent.com/magiciantk/magiciantk/main/assets/streak.svg" alt="GitHub Streak" />
 </p>
-
-> ⚠️ The stats card above is served from a free, shared public instance that's best-effort and occasionally rate-limited — if it shows a broken image, just refresh the page in a minute or two.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:FFFFFF,100:FFD700&height=4&animation=twinkling" width="100%"/>
@@ -159,8 +157,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:FFFFFF,100:FFD700&height=120&section=footer&animation=twinkling" width="100%"/>
-
-<i>✨ Thanks for visiting — see you in the next build! ✨</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:FFFFFF,100:FFD700&height=180&section=footer&text=Thanks%20for%20visiting%20-%20see%20you%20in%20the%20next%20build!&fontSize=22&fontColor=0B0F1A&fontAlignY=75&animation=twinkling" width="100%"/>
 
 </div>

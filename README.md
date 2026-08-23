@@ -77,17 +77,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:FFFFFF,100:FFD700&height=4&animation=twinkling" width="100%"/>
 </div>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=magiciantk&show_icons=true&theme=transparent&title_color=FFD700&icon_color=2196F3&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&hide_border=true&background=00000000&ring=2196F3&fire=FFD700&currStreakLabel=2196F3" alt="GitHub Streak" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:FFFFFF,100:FFD700&height=4&animation=twinkling" width="100%"/>
-</div>
-
 ### 🎮 Mini Games
 
 **1. GitHub Contribution Snake 🐍** — *a game of snake played on my contribution graph!*
@@ -164,58 +153,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2196F3,50:FFFFFF,100:FFD700&height=4&animation=twinkling" width="100%"/>
 </div>
-
-## ⚙️ Optional upgrade: making the GitHub Stats cards bulletproof
-
-The **GitHub Stats** section above hotlinks the live public stats API directly, so it renders right away. The one catch: GitHub proxies external README images through its own cache ("Camo"), and if that public API ever times out even once, Camo can keep serving a broken image for a while afterward — even after the source recovers. It's rare, but it's why the card has glitched out a couple of times already.
-
-The permanent fix is to have a GitHub Action generate the cards as static SVGs and commit them straight into this repo, so they're served directly by GitHub with no external dependency at page-load time at all.
-
-**To switch to that setup, do this once:**
-
-1. In this repo (`magiciantk/magiciantk`), create the folder `.github/workflows/` if it doesn't exist.
-2. Add a new file there named `github-stats.yml` with the exact content below.
-3. Commit and push. This creates `assets/stats.svg` and `assets/streak.svg` automatically, refreshing every 6 hours, on every push, and any time you trigger it manually from the **Actions** tab.
-4. Once it's run at least once, swap the two `<img>` src values in the GitHub Stats section above to:
-   `https://raw.githubusercontent.com/magiciantk/magiciantk/main/assets/stats.svg` and `.../assets/streak.svg`
-
-```yaml
-name: Generate GitHub Stats
-
-on:
-  schedule:
-    - cron: '0 */6 * * *'   # refresh every 6 hours
-  workflow_dispatch:         # lets you trigger it manually from the Actions tab
-  push:
-    branches: [main]
-
-jobs:
-  stats:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Create assets folder
-        run: mkdir -p assets
-
-      - name: Fetch GitHub Stats card
-        run: >
-          curl -s
-          "https://github-readme-stats.vercel.app/api?username=magiciantk&show_icons=true&theme=transparent&title_color=FFD700&icon_color=2196F3&text_color=ffffff&hide_border=true"
-          -o assets/stats.svg
-
-      - name: Fetch GitHub Streak card
-        run: >
-          curl -s
-          "https://github-readme-streak-stats.herokuapp.com/?user=magiciantk&hide_border=true&background=00000000&ring=2196F3&fire=FFD700&currStreakLabel=2196F3"
-          -o assets/streak.svg
-
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats.svg assets/streak.svg
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats cards" && git push)
-```
-
-That's it — once the workflow runs once, the images above will resolve and stay reliable.
